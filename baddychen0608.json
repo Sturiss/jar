@@ -74,7 +74,7 @@
 {"key":"csp_biubiu_天空资源","name":"🥒天空资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://baddychen0608/MeowXB/天空资源.json"},
 {"key":"csp_biubiu_完美看看影视","name":"🥒完美看看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://baddychen0608/MeowXB/完美看看影视.json"},
 {"key":"csp_biubiu_达达龟","name":"🥒达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://baddychen0608/MeowXB/达达龟.json"},
-{"key":"csp_biubiu_乐猪影视","name":"🥒乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://baddychen0608/MeowXB/乐猪影视.json"},
+{"key":"csp_biubiu_乐猪影视","name":"🥒乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.1.26:8181/AliYunPan/%E6%96%87%E4%BB%B6/%E7%8C%AB%E5%BD%B1%E8%A7%86/%E5%A4%A7%E4%BD%AC/baddychen0608/baddychen0608/MeowXB/%E4%B9%90%E7%8C%AA%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_biubiu_口袋影院","name":"🥒口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://baddychen0608/MeowXB/口袋影院.json"},
 {"key":"csp_biubiu_黑洞影视","name":"🥒黑洞影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://baddychen0608/MeowXB/黑洞影视.json"},
 {"key":"csp_biubiu_神马影视","name":"🥒神马影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://baddychen0608/MeowXB/神马影视.json"},
