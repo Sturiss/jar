@@ -36,7 +36,7 @@
 {"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
-{"key":"csp_XBiubiu"," name":"大米(B)🍚","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jyt0106.github.io/T/dm.json"},
+{"key":"csp_XBiubiu"," name":"大米(B)🍚","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jyt0106.github.io/T/dmxq.json"},
 
 {"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jyt0106.github.io/T/厂长资源-蓝光.json"},
 {"key":"csp_biubiu_特狗影视","name":"🥒特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jyt0106.github.io/T/特狗影视.json"},
