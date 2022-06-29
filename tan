@@ -58,7 +58,7 @@
 //{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXB/douyu.json"},
 //{"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXP/duboku2.json"},
 //{"key": "___xmf哔","name": "哔嘀","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yosakoi.tk:5716/d/Alist/tvbox/MaooXP/bidi.json"},
-#
+
 ],
 
 "parses":[
