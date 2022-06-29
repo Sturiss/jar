@@ -1,13 +1,13 @@
 // 修复错误的"日本番剧" 类别
 {
   "name": "哔嘀影视",
-  "url": "https://www.btbdys.com/真哔嘀",
+  "url": "https://www.btbdys.com/",
  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
  "User": "User-Agent:Dart/2.14 (dart:io)",
   //"User": "空",
   "shouye": "1",
 
-  "fenlei": "最新电影$/vodshow-zuixindy--------#最新剧集$/vodshow-zuixinjuji--------#国产剧集$/vodshow-guochanjuji--------#电视剧$/vodshow-lianxuju--------#港台剧集$/vodshow-gangtaijuji--------#动漫$/vodshow-dongman--------#国产剧$/vodshow-guochanju--------#港台剧$/vodshow-gangtaiju--------#日韩剧集$/vodshow-rihanjuji",
+  "fenlei": "最新电影$/vodshow-zuixindy--------#最新剧集$/vodshow-zuixinjuji--------#国产剧集$/vodshow-guochanjuji--------#港台剧集$/vodshow-gangtaijuji--------#动漫$/vodshow-dongman--------#欧美剧集$/vodshow-oumeijuji--------#日韩剧集$/vodshow-rihanjuji",
   "houzhui": "---.html",
 
   "shifouercijiequ": "0",
