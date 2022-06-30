@@ -18,16 +18,7 @@
 {"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXB/LIBVIO.json"},
 {"key":"csp_biubiu_大米星球","name":"⭐️大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXB/dmxq.json"},
 {"key":"csp_biubiu_厂长资源-蓝光","name":"💎厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXB/czzy2.json"},
-{
-      "key": "___xmf哔",
-      "name": "哔嘀",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jyt0106.github.io/T/bidi.json"
-    },
+{"key":"csp_biubiu_哔嘀影视","name":"📮哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jyt0106.github.io/T/bdys.json"},
 {"key":"csp_biubiu_在线之家","name":"📀在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXB/zxzj.json"},
 {"key":"csp_xpath_naifeiorg","name":"👑奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXP/naifeiorg.json"},
 {"key":"csp_biubiu_奈菲影院","name":"🌈奈菲影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXB/nfyy.json"},
