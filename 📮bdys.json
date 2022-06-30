@@ -10,7 +10,7 @@
   "fenlei": "最新电影$/index.php/vod/show/id/1/page/#最新剧集$/index.php/vod/show/id/2/page/#国产剧集$/index.php/vod/show/id/3/page/#港澳剧集$/index.php/vod/show/id/4/page/#动漫$/index.php/vod/show/id/5/page/#国产剧$/index.php/vod/show/id/201/page/#港台剧$/index.php/vod/show/id/202/page/#欧美剧集$/index.php/vod/show/id/203/page/#日韩剧集$/index.php/vod/show/id/204/page/", //网站列表的分类
   "houzhui": ".html", //网站翻页链接的后缀
 
-  "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
+  "shifouercijiequ": "1", //截取的列表数组是否需要二次截取，0不需要，1需要
   "jiequqian": "空", //不需要二次截取就填空
   "jiequhou": "空", //不需要二次截取就填空
   "jiequshuzuqian": "class=\"pic\"", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
